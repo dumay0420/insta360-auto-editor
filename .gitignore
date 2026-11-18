@@ -1,0 +1,7 @@
+.venv
+__pycache__/
+*.pyc
+.DS_Store
+# 校準範本跟各自的螢幕、版本有關，每個人自己做
+templates/*.png
+templates/*.scale
